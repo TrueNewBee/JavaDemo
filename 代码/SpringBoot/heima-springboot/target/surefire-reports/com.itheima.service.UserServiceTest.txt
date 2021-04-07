@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.itheima.service.UserServiceTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.526 s <<< FAILURE! - in com.itheima.service.UserServiceTest
+saveUser(com.itheima.service.UserServiceTest)  Time elapsed: 0.494 s  <<< ERROR!
+java.lang.ArithmeticException: / by zero
+	at com.itheima.service.UserServiceTest.saveUser(UserServiceTest.java:34)
+
